@@ -1,0 +1,18 @@
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe.config
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.exe
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.pdb
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe.manifest
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.application
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.pdb
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\bin\Release\WiimoteLib.dll
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.CalibrationForm.resources
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Form1.resources
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Properties.Resources.resources
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.TrustInfo.xml
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.exe.manifest
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.application
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Documents and Settings\Rajk\My Documents\Visual Studio 2008\Projects\windowsxp\WiimoteTest\bin\Release\Microsoft.DirectX.dll
